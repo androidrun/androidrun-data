@@ -30,6 +30,11 @@
             "name":"Monument Valley",
             "desc":{"v":"2.7.17", "m":"Free"},
             "id":"com.ustwo.monumentvalley"
+        },
+        {
+            "name":"Solid Explorer File Manager",
+            "desc":{"v":"2.8.7", "m":"Premium"},
+            "id":"pl.solidexplorer2"
         }
     ],
     "date":"10-27-2021"
